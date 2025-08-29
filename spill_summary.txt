@@ -1,0 +1,13 @@
+The Top 5 Counties by Spill Count:
+- Westchester: 55970 spills
+- Suffolk: 51636 spills
+- Nassau: 45317 spills
+- Queens: 30205 spills
+- Erie: 25581 spills
+
+The Top 5 Material Spilled:
+- #2 Fuel Oil: 141005 spills
+- Gasoline: 65574 spills
+- Unknown Petroleum: 51706 spills
+- Diesel: 50126 spills
+- Transformer Oil: 35014 spills
