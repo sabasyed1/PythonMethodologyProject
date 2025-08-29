@@ -1,0 +1,11 @@
+## Overview of SpillNY 
+
+Thousands of hazardous material spills occur every year across New York. From weed killer to oil  leaks to chemical accidents that should be reported. Under state law and regulations, spills that could pollute the lands of water of New York must be reported to the state agency. The data is publicly available but the dataset isn’t a simple tool that people can use to track and understand what is behind these spills. It is very easy to get lost in the public dataset that contains over 250,000 records over many years. SpillNY is an interactive dashboard that visualizes spill incident trends across New York for public awareness. 
+
+Spills and hazards are tracked by the New York State Department of Environment Conservation. The publicly available dataset is complicated and not user friendly. The dataset is shared in a large CSV file with no context, no visual mapping, but there is a cause, and location. Most New Yorkers do not know that the records are public which is an example of data rich information but poor insight situation. This information should be easily accessible for the public. 
+
+SpillNY will take publicly available data from New York State Department of Environment Conservation and turn it into a usable and mapped dashboard with helpful information like “where are the spills” and “what are the most types of spills”. This will provide an understanding where and what is being spilled. The target audience is environmentalists, concerned citizens, real estate developers, etc. The data that I will use for this project is https://data.ny.gov/Energy-Environment/Spill-Incidents/u44d-k5fk/about_data. The New York State Department of Environment Conservation has records of spill incidents including the locations, dates, contributing factor, source, and material name occurring all over the state. 
+
+SpillNY will help New Yorkers understand where the environmental risks are high, what is accountable, and if there is change. This project helps with transparency and safety which show programming knowledge can make a difference in a real world issue. You might be thinking “why should I invest” and the reason is that this project is relevant, has a public dataset, and a real world use case with a potential impact which starts NOW. 
+
+
